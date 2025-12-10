@@ -128,7 +128,29 @@ metrics.txt               - 性能摘要
 - 无损检测：工业缺陷检测
 - 地球物理勘测：层界面识别
 
+
+## 引用
+
+如果您在研究或项目中使用本系统，请按以下格式引用：
+```bibtex
+@software{U4EIP2025,
+  author = {bin-M-cnboy},
+  title = {U4EIP: U-Net Based Electromagnetic Property Recovery System},
+  year = {2025},
+  url = {https://github.com/bin-M-cnboy/U4EIP},
+  version = {1.0}
+}
+```
+
+本项目采用 MIT 许可证。详见 [LICENSE](LICENSE) 文件。
+
+欢迎提交问题报告和拉取请求。为了提高质量，请确保：
+- 代码遵循现有风格
+- 添加适当的文档
+- 更新相关测试
+
+---
 ---
 
-***Last Updated: 2025.12.11***  
+***Last Updated: 2025.12.10***  
 
