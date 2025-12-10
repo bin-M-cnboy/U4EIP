@@ -1,0 +1,6 @@
+Ring Detection U-Net with Sigmoid Enhancement
+Val MSE: 0.0010
+Val MAE: 0.0258
+Samples: 500, Epochs: 60
+
+Postprocessing: Sigmoid function with threshold=0.5, scale=10
